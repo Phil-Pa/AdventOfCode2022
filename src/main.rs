@@ -4,7 +4,8 @@ mod dec2;
 mod dec3;
 mod dec4;
 mod dec5;
+mod dec6;
 
 fn main() {
-    dec5::part2();
+    dec6::part2();
 }
