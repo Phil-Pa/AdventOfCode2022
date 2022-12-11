@@ -2,9 +2,9 @@ mod utils;
 mod dec1;
 mod dec2;
 mod dec3;
-// mod dec4;
+mod dec4;
 // mod dec5;
 
 fn main() {
-    dec3::part2();
+    dec4::part2();
 }
